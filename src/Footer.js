@@ -3,7 +3,7 @@ import {faSquareXTwitter, faInstagramSquare, faGithubSquare, faFacebookSquare} f
 
 export function Footer() {
   return (
-    <div className=' bg-[#161619] px-32 py-8 flex justify-around '>
+    <div className=' bg-[#161619] px-32 py-8 flex justify-center gap-5 lg:gap-12'>
       <a href="https://twitter.com/Thatchidinma" target="blank" className='hover:text-black'>
         <FontAwesomeIcon icon={faSquareXTwitter}  className="w-8 h-8 p-1" />
       </a>
