@@ -1,6 +1,6 @@
 export function About() {
   return (
-    <div className="px-16 py-4">
+    <div className="px-8 lg:px-16 py-4">
       <h2>About</h2>
       <p>
         I am a frontend developer with a particular interest in making things simple and automating daily tasks.
